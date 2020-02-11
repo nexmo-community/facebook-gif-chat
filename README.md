@@ -1,5 +1,7 @@
 # Facebook Messenger Animated Gif Search and Transform Chatbot
 
+<div style="text-align:center"><img src="facebook_gif_chat_example.gif" /></div>
+
 This repository contains the code for a working Facebook Messenger Chatbot that allows users to search for animated gifs and then apply instant image transformations to those gifs and receive back the transformed gif. 
 
 * [Prerequisites](#prerequisites)
